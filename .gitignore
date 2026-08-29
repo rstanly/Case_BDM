@@ -1,0 +1,9 @@
+# Ignore environment variables
+.env
+
+# Ignore Python virtual environments
+.venv/
+__pycache__/
+
+# Ignore the massive raw CSV files (GitHub has a 100MB file limit)
+*.csv
