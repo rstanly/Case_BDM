@@ -1,6 +1,5 @@
-Here is a comprehensive `README.md` file that documents every step we took. It is written so that anyone cloning your repository can easily download the dataset, set up their environment, build the PostgreSQL schema, and launch the dashboard.
-
-You can copy the text below and save it exactly as `README.md` in your project folder.
+Here is the .env file 
+DATABASE_URL=postgresql://postgres.ydfbqgtlvnyqvkdcudtp:Kishorek2817s@aws-1-ap-northeast-2.pooler.supabase.com:5432/postgres
 
 ---
 
